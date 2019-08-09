@@ -1,0 +1,17 @@
+.PokeCard {
+  border: 1px solid gray;
+  border-radius: 5px;
+  box-shadow: 0px 5px 0px rgba(0, 0,0, 0.5);
+  padding: 12px;
+  width: 200px;
+  margin: 1rem;
+  transition: all .3s ease-in-out;
+}
+
+.PokeCard:hover {
+  transform: scale(1.05)
+}
+
+.PokeCard-data {
+  text-transform: uppercase;
+}
