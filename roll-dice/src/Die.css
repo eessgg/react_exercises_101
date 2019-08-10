@@ -1,0 +1,8 @@
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.Die {
+  font-size: 26px;
+  padding: 0.25em;
+  color: slateblue;
+  width: 20px;
+}
